@@ -1,0 +1,1 @@
+Use this to extract customer email from organization(s) then import to another organization in JSM Cloud.
